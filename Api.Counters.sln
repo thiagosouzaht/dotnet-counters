@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Counters", "Api.Counters\Api.Counters.csproj", "{3021BA57-E127-4540-B215-4B39B5534CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perf.Counters", "Perf.Counters\Perf.Counters.csproj", "{E1B04116-A36E-4BCA-A448-395C6A508804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3021BA57-E127-4540-B215-4B39B5534CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021BA57-E127-4540-B215-4B39B5534CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021BA57-E127-4540-B215-4B39B5534CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021BA57-E127-4540-B215-4B39B5534CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B04116-A36E-4BCA-A448-395C6A508804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B04116-A36E-4BCA-A448-395C6A508804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B04116-A36E-4BCA-A448-395C6A508804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B04116-A36E-4BCA-A448-395C6A508804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472BE2CD-37A7-4568-84AB-E574DB921B2F}
+	EndGlobalSection
+EndGlobal
